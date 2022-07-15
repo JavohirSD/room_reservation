@@ -1,2 +1,2 @@
-# hotel_reservation
+# room_reservation
 Simple hotel reservation system
